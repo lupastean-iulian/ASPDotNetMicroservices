@@ -1,4 +1,5 @@
-﻿using Basket.API.Repositories.Interfaces;
+﻿using Basket.API.GrpcServices;
+using Basket.API.Repositories.Interfaces;
 using Basket.API.Repositories.Repositories;
 
 namespace Basket.API.Services
